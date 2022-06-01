@@ -1,0 +1,11 @@
+base_readme.txt
+charts_name.txt
+twitter_key.txt
+twitter_key_matteo.txt
+github_token.txt
+github_update.py
+main_old.py
+main_update.py
+\__pycache__
+/Charts/*
+!/Charts/2022-02-25
